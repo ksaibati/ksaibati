@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ksaibati
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning aws
-- 💞️ I’m looking to collaborate on multi cloud app for HR
+- 💞️ I’m looking to collaborate on multi cloud
 - 📫 How to reach me ...
 
 <!---
